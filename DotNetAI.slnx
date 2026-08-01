@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DotNetAI.Api/DotNetAI.Api.csproj" />
+  <Project Path="DotNetAI.Core/DotNetAI.Core.csproj" />
+</Solution>
