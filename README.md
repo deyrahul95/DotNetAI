@@ -2,6 +2,16 @@
 
 Implementation of GEN-AI base application using Dotnet Semantic Kernel.
 
+## Screenshot
+
+<b>POST Chat</b>
+
+![Scalar UI Screenshot](./docs/Post%20Chat.png)
+
+<b>POST Kernel</b>
+
+![Scalar UI Screenshot2](./docs/POST%20Kernel.png)
+
 ## Prerequisite
 
 - Dotnet SDK (Version 10)
